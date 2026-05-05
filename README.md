@@ -139,5 +139,5 @@ This project demonstrates how AI and automation can transform traditional financ
 
 ---
 
-## Author
+## Divyam Narang
 MBA Finance Student | AI in Finance Practitioner
