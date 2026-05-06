@@ -86,6 +86,7 @@ Finance-Automation-Project/
 
 ### 4. Email Notification Output
 "C:\Users\DIVYAM NARANG\Desktop\Finance-Automation-Project\email_output.png"
+email_output.png
 
 ---
 
