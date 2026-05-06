@@ -86,19 +86,19 @@ Finance-Automation-Project/
 
 ### 2. Google Sheet Data Capture
 
-![Google Sheet](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/sheet_data.png)
+![Google Sheet](google_sheet)
 
 ---
 
 ### 3. n8n Workflow Architecture
 
-![n8n Workflow](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/workflow_diagram.png)
+![n8n Workflow](n8n_architecture.png)
 
 ---
 
 ### 4. Email Notification Output
 
-![Email Notification](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/email_notification.png)
+![Email Notification](email_output.png)
 
 ---
 
@@ -159,7 +159,7 @@ This project shows how automation and AI-driven workflows can transform traditio
 
 ## 👩‍💼 Author
 
-*Deeksha Bawa*
+*Divyam Narang*
 MBA Finance Student | AI in Finance Practitioner
 
 ---
