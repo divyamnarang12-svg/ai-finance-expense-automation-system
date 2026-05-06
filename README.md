@@ -86,7 +86,8 @@ Finance-Automation-Project/
 
 ### 2. Google Sheet Data Capture
 
-![Google Sheet](google_sheet)
+![Google Sheet](google_sheet.png)
+
 
 ---
 
